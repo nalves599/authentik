@@ -1,0 +1,31 @@
+packages/django-dramatiq-postgres/django_dramatiq_postgres/middleware.py
+  s_f10da612a8bbb2::t_25fc50f2206d9d 277
+authentik/enterprise/apps.py
+  s_f10da612a8bbb2::t_848b6ff67240af 14,17-19
+authentik/enterprise/tests/test_metrics.py
+  s_f10da612a8bbb2::t_946b8433341383 3-4,10,36-56
+authentik/policies/apps.py
+  s_f10da612a8bbb2::t_d728c8a991a64d 15
+authentik/flows/apps.py
+  s_f10da612a8bbb2::t_c9aa169d445126 14
+authentik/enterprise/signals.py
+  s_f10da612a8bbb2::t_5841b07a83ae6f 23-25
+authentik/outposts/apps.py
+  s_f10da612a8bbb2::t_40d37961abdfff 17,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e3215aa96188b7a6674b38b8e8a300d33af2c5bc",
+  "prompts": {},
+  "sessions": {
+    "s_f10da612a8bbb2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f934717f9ffe01dspvWVhwyeZ2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Nuno Alves <nunoalves@cloudflare.com>"
+    }
+  }
+}
